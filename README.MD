@@ -2,4 +2,4 @@
 
 1.-Reconstruir los modulos de node: `npm install`
 
-2.-Corer el servidor: `node app.js`
+2.-Correr el servidor: `node app.js`
